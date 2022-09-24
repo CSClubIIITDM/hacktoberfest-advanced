@@ -1,4 +1,4 @@
-# HacktoberFest 2022 [For 2nd year only]
+# HacktoberFest 2022 [For 3nd year and above only]
 **READ THE RULES FOR CONTRIBUTION CAREFULLY! Any PR (Pull Request) that violates rules will be marked SPAM.**
 
 A repository containing basic programming questions in C, C++ and Python.
