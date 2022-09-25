@@ -1,7 +1,7 @@
 # HacktoberFest 2022 [For 3rd year and above only]
 **READ THE RULES FOR CONTRIBUTION CAREFULLY! Any PR (Pull Request) that violates rules will be marked SPAM.**
 
-A repository containing basic programming questions in C, C++ and Python.
+A repository containing three areas to contribute -- Problem Solving (CP), Mini CTF and Web Design.
 
 ***Not Affiliated with Digital Ocean or Hacktoberfest.***
 
