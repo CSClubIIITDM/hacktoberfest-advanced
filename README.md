@@ -19,7 +19,7 @@ A repository containing three areas to contribute -- Problem Solving (CP), Mini 
 1. Check the domains here
 2. Upload Solutions to the Correct Folders i.e. all C solutions must be added to C folder only
 3. If any Question is solved in C then a PR made to the same question in C++ will not be accepted. Vice-versa also applies.
-4. All the files must be names as "quesn{Question_Number}.{filetype}". Example: Quesn0.cpp
+4. All the files must be names as 
 5. **Solve only 1 question in 1 PR. PRs with multiple questions will be rejected.**
 6. Create at most 4 PRs. Any more after that wont be accepted.
 7. Incorrect solutions will not be accepted.
