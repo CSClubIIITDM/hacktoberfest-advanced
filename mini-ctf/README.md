@@ -1,1 +1,1 @@
-## MINI CTF
+# MINI CTF
