@@ -7,6 +7,10 @@ We love your input! We want to make contributing to this project as easy and tra
 - Proposing new template
 
 ## :nerd_face: CONTRIBUTING!
+In this challenge you are going to create a frontend web page design for CS Club in HTML and CSS.
+- You are free to put any dummy content by yourself, keeping code of conduct and behavioural etiquettes in mind.
+- You are free to choose any color scheme for your design, including the current CS Club logo.
+- You are flexible to choose any number of pages for your website.
 
 ### :100: Rules
 
