@@ -1,7 +1,7 @@
 # HacktoberFest 2022 [For 3rd year and above only]
 **READ THE RULES FOR CONTRIBUTION CAREFULLY! Any PR (Pull Request) that violates rules will be marked SPAM.**
 
-A repository containing three areas to contribute -- Problem Solving (CP), Mini CTF and Web Design.
+A repository containing three areas to contribute -- Problem Solving (CP), Mini CTF and Web Dev.
 
 ***Not Affiliated with Digital Ocean or Hacktoberfest.***
 
@@ -15,12 +15,12 @@ A repository containing three areas to contribute -- Problem Solving (CP), Mini 
 
 ## :nerd_face: CONTRIBUTING!
 
-### :100: Rules:
-1. Check the domains --> [Mini CTF](mini-ctf), [Web Development](webdev) and [Problem Solving](cp).
-2. Upload Solutions to the Correct Folders i.e. all C solutions must be added to C folder only
-3. If any Question is solved in C then a PR made to the same question in C++ will not be accepted. Vice-versa also applies.
-4. All the files must be names as 
-5. **Solve only 1 question in 1 PR. PRs with multiple questions will be rejected.**
+### :rocket: Getting Started
+1. Check the domains -> [Problem Solving](cp), [Mini CTF](mini-ctf) and [Web Development](webdev).
+2. Upload each solution to the respective correct folders i.e. all web dev solutions must be added to web-dev folder only.
+3. No Duplications of solutions allowed.
+4. Each solution must follow a unique format of PR, which can be found in respective folders rules.
+5. **Each solution should have a different PR. PRs with multiple solutions will be rejected.**
 6. Create at most 4 PRs. Any more after that wont be accepted.
 7. Incorrect solutions will not be accepted.
 8. Kindly send your institute Roll No. while making your PR.
@@ -33,15 +33,17 @@ A repository containing three areas to contribute -- Problem Solving (CP), Mini 
 ### :man_shrugging: How To:
 
 1. Fork Repo on Web Page
-2. `git clone https://github.com/{your-username}/Hacktoberfest-Data-Structure-and-Algorithms`
+2. `git clone https://github.com/{your-username}/Hacktoberfest-advanced`
 3. Code your files in the proper directory based on the instructions above
 4. add all your files `git add your/directory/path/to/file/` (see new directory structure above)
 5. commit your file changes `git commit -m "Whatever you did here, e.g. created linkedlist class in C++"`
 6. push your changes `git push`
-7. Create a Pull Request to master on Web Page
+7. Create a Pull Request to main branch on Web Page. 
 
 ### :ghost: Alternate via Web
 
 1. Fork Repo on Web Page
 2. Make your changes on your forked repo
 3. Make Pull Request to master
+
+**NOTE: Always take a pull from the upstream repository to your main branch to keep it as per with the main project (updated repository).**
