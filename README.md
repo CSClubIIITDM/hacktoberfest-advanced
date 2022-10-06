@@ -16,7 +16,7 @@ A repository containing three areas to contribute -- Problem Solving (CP), Mini 
 ## :nerd_face: CONTRIBUTING!
 
 ### :100: Rules:
-1. Check the domains here
+1. Check the domains --> [Mini CTF](mini-ctf), [Web Development](webdev) and [Problem Solving](cp).
 2. Upload Solutions to the Correct Folders i.e. all C solutions must be added to C folder only
 3. If any Question is solved in C then a PR made to the same question in C++ will not be accepted. Vice-versa also applies.
 4. All the files must be names as 
