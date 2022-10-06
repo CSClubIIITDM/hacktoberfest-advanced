@@ -18,4 +18,4 @@ In this challenge you are going to create a frontend web page design for CS Club
 2. Name of the folder must be `{roll_no}_{name}_{solution no}` i.e. `CS20B1098_TUSHAR_0`
 3. If you are submitting more than one solution in this folder each solution must have different PR and the `solution_no` must start from 0.
 4. Duplication in solution/design will NOT considered.
-5. Always adhere to Contributing guildlines given in main repo. [Getting Started](../README.md/#nerd_face-contributing).
+5. Always adhere to Contributing guildlines given in main repo. [Getting Started](../README.md/#nerd_face-contributing)
