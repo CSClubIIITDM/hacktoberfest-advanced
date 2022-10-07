@@ -1,6 +1,6 @@
 # Frontend Web Design
 
-**A folder for you to create web designs in HTML and CSS/SCSS. Checkout the rules for contributing.**
+**A challenge for you to create web designs in HTML and CSS/SCSS. Checkout the rules for contributing.**
 
 We love your input! We want to make contributing to this project as easy and trasparent as possible, whether it's:
 - Submitting a design
