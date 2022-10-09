@@ -15,6 +15,7 @@ In this challenge you are going to create a frontend web page design for CS Club
 ### :100: Rules
 
 1. Create a folder in webdev folder and upload your solution/design/code into that.
+2. Folder should contain atleast one preview as an image file of submitted design.
 2. Name of the folder must be `{roll_no}_{name}_{solution no}` i.e. `CS20B1098_TUSHAR_0`
 3. If you are submitting more than one solution in this folder each solution must have different PR and the `solution_no` must start from 0.
 4. Duplication in solution/design will NOT considered.
