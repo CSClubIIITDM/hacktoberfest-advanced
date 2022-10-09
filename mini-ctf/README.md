@@ -1,3 +1,0 @@
-# MINI CTF
-
-Coming Soon!
