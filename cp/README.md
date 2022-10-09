@@ -1,4 +1,7 @@
 # Problem Solving
+**Some CP Problems for you to solve in C/C++/Python.**
+
+You are free to choose any langauge but first read the rules carefully.
 
 ## :nerd_face: CONTRIBUTING!
 
