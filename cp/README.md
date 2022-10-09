@@ -16,6 +16,7 @@ You are free to choose any langauge but first read the rules carefully.
  &emsp;[`7. PlayingWithChairs`](Questions/PlayingWithChairs.md)<br>
  &emsp;[`8. Sum_of_odd_sums`](Questions/Sum_of_odd_sums.md)<br>
  &emsp;[`9. nConditioned`](Questions/nConditioned.md)<br><br>
+2. **For Eeach solution you need to submit EDITORIAL while making PR.** 
 3. Upload Solutions to the Correct Folders i.e. all C solutions must be added to C folder only
 4. If any Question is solved in C then a PR made to the same question in C++ will not be accepted. Vice-versa also applies.
 5. All the files must be names as "{question_name}.{filetype}". Example: AirConditioner.cpp
