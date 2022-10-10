@@ -34,7 +34,7 @@ The output consists of $N$ space separated integers, which is the order in which
 ### Explanation
 From the given network, we can plot this graph:
 
-![Graphical Illustration](/doof_illus.png "Doofus")
+![Graphical Illustration](doof_illus.png "Doofus")
 - First, edge with weight 9 is removed. As **node 4 gets isolated**, it will be the first building to self-destruct.
 - Next, edge with weight 7 is removed.
 - Next, edge weight 6 is removed. 
