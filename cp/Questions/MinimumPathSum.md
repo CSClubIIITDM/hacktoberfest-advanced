@@ -23,7 +23,9 @@
   ***
   
   - triangle[i].length == triangle[i + 1].length + 1 <br>
-  - 104 $\leq$ triangle[i][j] $\leq$ 104
+  - 104 $\leq$ triangle[i][j] $\leq$ 104 (Error) <br>
+  (Update)<br>
+  10^-4 to 10^4
 
 # Sample Test Case :
 ##  Example 1:
