@@ -1,3 +1,0 @@
-# Long CTF
-
-Coming Soon!
