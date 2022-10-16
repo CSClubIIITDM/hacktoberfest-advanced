@@ -9,9 +9,9 @@
 # Constraints :
   - 1 $\leq$ triangle.length $\leq$ 200 <br>
   - triangle[0].length = triangle.length <br>
-  - triangle[triangle.length - 1] = 1 <br> 
-  - triangle[i].length == triangle[i + 1].length + 1 <br>
-  - 10^(-4) $\leq$ triangle[i][j] $\leq$ 10^4
+  - triangle[triangle.length - i - 1].length = 1 + i     (for triangle.length > i >=0) <br> 
+  - triangle[i].length = triangle[i + 1].length + 1      (for i >= 0) <br>
+  - -10^(4) $\leq$ triangle[i][j] $\leq$ 10^4
 
 # Sample Test Case :
 ##  Example 1:
@@ -24,7 +24,7 @@
   &nbsp;6 5 7 <br>
   &nbsp;&nbsp;3 4 <br>
   &emsp;2 <br>
-  The minimum path sum from bottom to top is 1 + 5 + 3 + 2 = 11 (underlined above).
+  The minimum path sum from top to bottom is 1 + 5 + 3 + 2 = 11 (underlined above).
   
 ### Submission Rules:
   - Expected Time Complexity - O(n^2)
