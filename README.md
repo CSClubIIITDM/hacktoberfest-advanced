@@ -1,7 +1,7 @@
 # HacktoberFest 2022 [For 3rd years and above only]
 **READ THE RULES FOR CONTRIBUTION CAREFULLY! Any PR (Pull Request) that violates rules will be marked SPAM.**
 
-A repository containing three areas to contribute -- [Problem Solving (CP)](cp), [Long CTF](long-ctf) and [Web Dev](webdev).
+A repository containing two areas to contribute -- [Problem Solving (CP)](cp) and [Web Dev](webdev).
 
 ***Not Affiliated with Digital Ocean or Hacktoberfest.***
 
@@ -16,7 +16,7 @@ A repository containing three areas to contribute -- [Problem Solving (CP)](cp),
 ## :nerd_face: CONTRIBUTING!
 
 ### :rocket: Getting Started
-1. Check the domains -> [Problem Solving](cp), [Long CTF](mini-ctf) and [Web Development](webdev).
+1. Check the domains -> [Problem Solving](cp) and [Web Development](webdev).
 2. Upload each solution to the respective correct folders i.e. all web dev solutions must be added to web-dev folder only.
 3. No Duplications of solutions allowed.
 4. Each solution must follow a unique format of PR, which can be found in respective folders rules.
