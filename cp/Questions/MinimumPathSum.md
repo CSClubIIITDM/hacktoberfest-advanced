@@ -4,14 +4,14 @@
 # Description :
   Given a triangle array, return the minimum path sum from bottom to top. <br>
   For each step, you may move to an adjacent number of the row below. <br>
-  More formally you may move from [i][j] to [i-1][j] i.e., upward or [i][j] to [i-1][j+1] i.e., diagonally upward.
+  More formally you may move from `[i][j]` to `[i+1][j]` i.e., upward , `[i][j]` to `[i+1][j+1]` i.e., downward-right or `[i][j]` to `[i+1][j-1]` i.e, downward-left.
   
 # Constraints :
-  - 1 $\leq$ triangle.length $\leq$ 200 <br>
-  - triangle[0].length = triangle.length <br>
-  - triangle[triangle.length - i - 1].length = 1 + i     (for triangle.length > i >=0) <br> 
-  - triangle[i].length = triangle[i + 1].length + 1      (for i >= 0) <br>
-  - -10^(4) $\leq$ triangle[i][j] $\leq$ 10^4
+  - 1 $\leq$ `triangle.length` $\leq$ 200 <br>
+  - `triangle[0].length` = `triangle.length` <br>
+  - `triangle[triangle.length - i - 1].length = 1 + i`     (for `triangle.length` > `i` >=0) <br> 
+  - `triangle[i].length = triangle[i + 1].length + 1`      (for `i` >= 0) <br>
+  - -10^(4) $\leq$ `triangle[i][j]` $\leq$ 10^4
 
 # Sample Test Case :
 ##  Example 1:
