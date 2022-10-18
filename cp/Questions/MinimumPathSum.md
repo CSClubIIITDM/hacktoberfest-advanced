@@ -4,7 +4,7 @@
 # Description :
   Given a triangle array, return the minimum path sum from bottom to top. <br>
   For each step, you may move to an adjacent number of the row below. <br>
-  More formally you may move from `[i][j]` to `[i+1][j]` i.e., upward , `[i][j]` to `[i+1][j+1]` i.e., downward-right or `[i][j]` to `[i+1][j-1]` i.e, downward-left.
+  More formally you may move diagonally upward from `[i][j]` to `[i+1][j+1]` (upward-right) or `[i+1][j-1]` (upward-left).
   
 # Constraints :
   - 1 $\leq$ `triangle.length` $\leq$ 200 <br>
