@@ -1,4 +1,4 @@
-# n-Sorted
+# n-Conditioned
 
 You are given an array $A$ of length **N**, an integer **k** and another integer **p**. You are tasked to find the number of sub-arrays [a<sub>$i$</sub> , ....... a<sub>$i+k$</sub> ] with length exactly equal to **k+1** that satisfies the following condition :
 - If you multiply the first element of the sub-array by $p^0$, the second element by $p^1$ and so on, until the $(k+1)$-th element is multiplied by $p^k$, then the sub-array should be sorted in **strictly increasing** order. 
