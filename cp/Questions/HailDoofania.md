@@ -2,7 +2,7 @@
 
 Dr. Doofenshmirtz has finally built his very own fortress of evil-tude : Doofania! Each building present in his fortress is connected by roads which are marked by an *importance factor* - its magnitude depending on how significant the road is to Doofenshmirtz for carrying out his evil deeds. 
 
-Agent P is tasked to take down these roads of Doofania to hinder the evil scientist's activities. Sources from the agency say that once a building is isolated from all roads, it is bound to self-destruct. 
+Perry the Platypus (Who is called Agent P in his agency) is tasked to take down these roads of Doofania to hinder the evil scientist's activities. Sources from the agency say that once a building is isolated from all roads, it is bound to self-destruct. 
 
 Can you help Agent P know the order in which the buildings self destruct, given that he takes down the roads in a **descending order** of importance (i.e the roads with the highest importance factor is taken down first, then the next highest, and so on) , so that the other agents can stay clear from the self-destruct radius? 
 
