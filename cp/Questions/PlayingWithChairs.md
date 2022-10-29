@@ -2,18 +2,15 @@
   PLAYING WITH CHAIRS
   
 # Problem Description :
-  Suppose you are playing a game using chairs where you form a circle with a single circle or multiple circles with
-  different number of chairs. <br> There are n people who play the game and each person has a goal to sit on the
-  chairs in a such a way that his left side chairs and right side chairs should be empty where left(l) and right(r)
-  values are given to them.<br>You are given a task to find the minimum number of chairs required to play the game.
+Suppose n persons are playing a game using chairs where chairs are arranged to form atleast one or multiple circles such that every person has atleast L no. of left and R no. of right chairs empty. L and R values are given for every person.You are given a task to find the minimum number of chairs required for organising the game.
   
 # Constraints :
   - 1 $\leq$ n $\leq$ 100000.
-  - 1 $\leq$ left,right $\leq$ 100000.
+  - 1 $\leq$ L,R $\leq$ 100000.
     
 # Input :
   The first line contains a single integer n which represents the no. of persons.
-  Then n lines represent the left and right values of the i th person
+  Then n lines represent the L and R values of the i th person
   
 # Output :
   The one and only line contains the minimum number of chairs required to play the game.
