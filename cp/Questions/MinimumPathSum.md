@@ -24,8 +24,8 @@
   &nbsp;6 5 7 <br>
   &nbsp;&nbsp;3 4 <br>
   &emsp;2 <br>
-  The minimum path sum from top to bottom is 1 + 5 + 3 + 2 = 11 (underlined above).
-  
+  The minimum path sum from top to bottom is 1 + 5 + 3 + 2 = 11 (underlined above).<br>
+  <img src="Minimumsumpath.png" width="30%" >
 ### Submission Rules:
   - Expected Time Complexity - O(n^2)
   - n is the size of triangle array
